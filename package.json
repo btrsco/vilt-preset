@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "author": "Miguel Batres <miguel@batres.co>",
+  "license": "MIT",
+  "preset": "preset.ts",
+  "devDependencies": {
+    "@preset/core": "^0.11.3",
+    "@types/node": "^20.12.12"
+  }
+}
